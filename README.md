@@ -39,11 +39,12 @@ This project implements A* pathfinding algorithm for robot navigation in dynamic
 ## Output Examples
 
 ### Single-Target Path Planning
-![Single Target Path Planning](single_target_output.png)
+<img width="843" alt="Screenshot 2025-05-13 at 11 17 45 PM" src="https://github.com/user-attachments/assets/52a0c8a0-b375-4b72-9ee3-729f63e77945" />
+
 *Single target path planning visualization showing the optimal path from start to target*
 
 ### Multi-Target Path Planning
-![Multi-Target Path Planning](multi_target_output.png)
+<img width="843" alt="Screenshot 2025-05-13 at 11 15 34 PM" src="https://github.com/user-attachments/assets/7c6b038b-a29d-49e9-b9e4-9b30fab56451" />
 *Multi-target path planning visualization showing the sequence of paths to visit all targets*
 
 ## How to Run
